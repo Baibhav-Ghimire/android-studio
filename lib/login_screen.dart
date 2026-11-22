@@ -40,6 +40,13 @@ class _CardScreenState extends State<CardScreen> {
                 Expanded(child: Card(child: Text("world"))),
               ],
             ),
+
+            TextField(),
+            SizedBox(height: 60,)
+
+
+
+
           ],
         ),
       ),
